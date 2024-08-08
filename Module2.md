@@ -1,6 +1,12 @@
 <b>Module 2</b>  
 
-Conditionals  
-Boolean operators  
+[M2A: (TP Ch5) Conditionals](https://colab.research.google.com/drive/1aYYH6jlF6XSELZsbl9RVrkK7p15iLTqF)   
+- Boolean expressions
+- Logical operators
+- if elif else
 
-Loops  
+[M2B: (TP Ch7) Loops](https://colab.research.google.com/drive/1z7cB9xJPGcoNfyHt1cEscMyyYanVvx03)  
+- Looping through strings
+- Updating variables
+- Looping to count
+- in operator
