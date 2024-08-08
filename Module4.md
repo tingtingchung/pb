@@ -5,3 +5,7 @@
 
 [M4C: Visualization](https://colab.research.google.com/drive/1U0oH-nq82mwVkvWmEZLym1PioT3JsYch#scrollTo=0CPaxl-50Cfn)    
 [M4C: Visualizing Pandas Data](https://colab.research.google.com/drive/1v6olHp0JBgHLnx8GMXUBI7zDY90C-lKn)  
+
+References  
+[10 minutes to Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)  
+[20 Pands functions for 80% data science tasks](https://www.kaggle.com/code/youssef19/20-pandas-functions-for-80-data-science-tasks?scriptVersionId=118961959)  
