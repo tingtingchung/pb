@@ -14,3 +14,5 @@
 [M1C: Read files](https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/4-files/PY0101EN-4-1-ReadFile.ipynb)  
 [M1D: Write and save files](https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/4-files/PY0101EN-4-2-WriteFile.ipynb)  
 [M1E: IPython and shell commands](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.05-IPython-And-Shell-Commands.ipynb#scrollTo=7eLVuNG2znHZ)  
+
+[Homework Assignment: House Shopping Survey](https://forms.gle/QxfeNCZ5Dzr9hnyv5)  
