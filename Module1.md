@@ -10,7 +10,6 @@
 - User input
 - Assignment operator
 - Math operators
--   
 
 [M1C: Read files](https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/4-files/PY0101EN-4-1-ReadFile.ipynb)  
 [M1D: Write and save files](https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/4-files/PY0101EN-4-2-WriteFile.ipynb)  
