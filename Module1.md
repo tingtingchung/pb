@@ -1,6 +1,7 @@
 <b>Module1: Programming Fundamentals</b>  
 
 [Complete by end of day: House Shopping Survey](https://forms.gle/QxfeNCZ5Dzr9hnyv5)  
+[Join Codio course](https://codio.com/p/signup?courseToken=lunar-robert)  
 
 [Course Intro](https://www.dropbox.com/scl/fi/1sif6b40p181liyilboaf/00-1-Intro-to-Python-Bootcamp.pptx?rlkey=f4rrn37gzmes8q3k090b1opyw&dl=1)  
 [M1A: Colab & Programming fundamentals](https://colab.research.google.com/drive/1pVkmyO5o25ySDo1UjKOPco5vzXlpZLl-)     
