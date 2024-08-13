@@ -6,7 +6,8 @@
 - Logical operators
 - [if elif else](https://books.trinket.io/pfe/03-conditional.html)  
 
-[M2B: (TP Ch7) Loops](https://colab.research.google.com/drive/1z7cB9xJPGcoNfyHt1cEscMyyYanVvx03)  
+[M2B: Loops](https://www.dropbox.com/scl/fi/dvsy02omox3ycjlku3nq0/M2-Loops.pptx?rlkey=y3zm0v03k2k6zx8xxunn1mmtw&dl=0)  
+- [Think Python Ch7](https://colab.research.google.com/drive/1z7cB9xJPGcoNfyHt1cEscMyyYanVvx03)  
 - Looping through strings
 - Updating variables
 - Looping to count
