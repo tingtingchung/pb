@@ -9,3 +9,4 @@ For additional practices please visit:
 [Python Training by JP Morgan Chase](https://github.com/jpmorganchase/python-training)  
 [Code Academy](https://www.codecademy.com/catalog/language/python)  
 [DataCamp Python course](https://www.datacamp.com/groups/shared_links/fd0f98d3028d1d6d6768be44435ad0e8d0d50cfbb76b22539805e25ede3cb36e)  
+[DeepLearning.AI's AI Python for Beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)  
