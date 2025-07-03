@@ -22,6 +22,11 @@ Introductions
 - Comments  
  
 <b>M1B: Decisions</b>  
+[M1B Worksheet: Decisions](https://docs.google.com/document/d/1ekhwZfbuc0faKWq754BS753Zjgo4XBcSyIpXqpsDLvU/edit?usp=sharing)  
+
+
+
+
 
 [M1C: Read files](https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/4-files/PY0101EN-4-1-ReadFile.ipynb)  
 [M1D: Write and save files](https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/4-files/PY0101EN-4-2-WriteFile.ipynb)  
