@@ -9,7 +9,7 @@ Introductions
 [Colab & Programming fundamentals](https://colab.research.google.com/drive/1pVkmyO5o25ySDo1UjKOPco5vzXlpZLl-)  
 
 <b>M1A: Basic Operations</b>  
-[Reading: (TP Ch1) Programming as a way of thinking](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap01.ipynb)  
+[M1A Reading: (TP Ch1) Programming as a way of thinking](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap01.ipynb)  
 [M1A Slidedeck: Basic Operations](https://www.dropbox.com/scl/fi/ybh9556b8cnmd0a2mg2fy/M1A-Basic-Operations.pptx?rlkey=6xgzj39gwktdyujw4b3n9p7ma&dl=0)  
 [M1A Worksheet: Basic Operations](https://docs.google.com/document/d/1Hx9fHxG1vasVJG-TYQiyShAaOzE5IyRbfJQNMZIbnKU/edit?usp=sharing)  
 - Variables
@@ -22,8 +22,12 @@ Introductions
 - Comments  
  
 <b>M1B: Decisions</b>  
+[M1B Reading: (TP Ch5) Conditionals](https://www.dropbox.com/scl/fi/459lr8yw6sv5qec90wq2n/M2-Conditionals.pptx?rlkey=9ag8jw6mkkkw79bxf6sm0t9j4&dl=0) 
+- [Think Python Ch5](https://colab.research.google.com/drive/1aYYH6jlF6XSELZsbl9RVrkK7p15iLTqF)   
+- [if elif else](https://books.trinket.io/pfe/03-conditional.html)  
 [M1B Worksheet: Decisions](https://docs.google.com/document/d/1ekhwZfbuc0faKWq754BS753Zjgo4XBcSyIpXqpsDLvU/edit?usp=sharing)  
-
+- Boolean expressions
+- Logical operators
 
 
 
