@@ -5,14 +5,30 @@
 [Optional: Join DataCamp course](https://www.datacamp.com/groups/shared_links/fd0f98d3028d1d6d6768be44435ad0e8d0d50cfbb76b22539805e25ede3cb36e)  
 
 [Course Intro](https://www.dropbox.com/scl/fi/1sif6b40p181liyilboaf/00-1-Intro-to-Python-Bootcamp.pptx?rlkey=f4rrn37gzmes8q3k090b1opyw&dl=1)  
-[M1A: Colab & Programming fundamentals](https://colab.research.google.com/drive/1pVkmyO5o25ySDo1UjKOPco5vzXlpZLl-)     
-[M1B: (TP Ch1) Programming as a way of thinking](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap01.ipynb)  
-- Comments
-- Print output
+
+[M1A: Colab & Programming fundamentals](https://colab.research.google.com/drive/1pVkmyO5o25ySDo1UjKOPco5vzXlpZLl-)  
+Basic Operations
 - Variables
-- User input
-- Assignment operator
-- Math operators
+- Operators
+  - Assignment operator
+  - Math operators
+- Built-In Functions
+  - User input
+  - Print output
+- Comments
+- 
+[M1A Slidedeck: Basic Operations](https://www.dropbox.com/scl/fi/ybh9556b8cnmd0a2mg2fy/M1A-Basic-Operations.pptx?rlkey=6xgzj39gwktdyujw4b3n9p7ma&dl=0)
+[M1A Worksheet: Basic Operations](https://docs.google.com/document/d/1Hx9fHxG1vasVJG-TYQiyShAaOzE5IyRbfJQNMZIbnKU/edit?usp=sharing)  
+
+
+
+
+
+
+
+
+[M1B: (TP Ch1) Programming as a way of thinking](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap01.ipynb)  
+
 
 [M1C: Read files](https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/4-files/PY0101EN-4-1-ReadFile.ipynb)  
 [M1D: Write and save files](https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/4-files/PY0101EN-4-2-WriteFile.ipynb)  
