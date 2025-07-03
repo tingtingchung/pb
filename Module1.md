@@ -16,7 +16,6 @@ Basic Operations
   - User input
   - Print output
 - Comments
-- 
 [M1A Slidedeck: Basic Operations](https://www.dropbox.com/scl/fi/ybh9556b8cnmd0a2mg2fy/M1A-Basic-Operations.pptx?rlkey=6xgzj39gwktdyujw4b3n9p7ma&dl=0)
 [M1A Worksheet: Basic Operations](https://docs.google.com/document/d/1Hx9fHxG1vasVJG-TYQiyShAaOzE5IyRbfJQNMZIbnKU/edit?usp=sharing)  
 
