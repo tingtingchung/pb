@@ -24,20 +24,15 @@ Introductions
 <b>M1B: Decisions</b>  
 [M1B Reading: (TP Ch5) Conditionals](https://www.dropbox.com/scl/fi/459lr8yw6sv5qec90wq2n/M2-Conditionals.pptx?rlkey=9ag8jw6mkkkw79bxf6sm0t9j4&dl=0) 
 - [Think Python Ch5](https://colab.research.google.com/drive/1aYYH6jlF6XSELZsbl9RVrkK7p15iLTqF)   
-- [if elif else](https://books.trinket.io/pfe/03-conditional.html)  
-[M1B Worksheet: Decisions](https://docs.google.com/document/d/1ekhwZfbuc0faKWq754BS753Zjgo4XBcSyIpXqpsDLvU/edit?usp=sharing)  
+- [if elif else](https://books.trinket.io/pfe/03-conditional.html)
+[M1B Slidedeck: Decisions](https://tinyurl.com/36xhdhe2)  
+[M1B Worksheet: Decisions](https://docs.google.com/document/d/1ekhwZfbuc0faKWq754BS753Zjgo4XBcSyIpXqpsDLvU/edit?usp=sharing)
 - Boolean expressions
 - Logical operators
-
-
-
-
-[M1C: Read files](https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/4-files/PY0101EN-4-1-ReadFile.ipynb)  
-[M1D: Write and save files](https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/4-files/PY0101EN-4-2-WriteFile.ipynb)  
-[M1E: IPython and shell commands](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.05-IPython-And-Shell-Commands.ipynb#scrollTo=7eLVuNG2znHZ)  
 
 Additional References  
 [History of Computers (BBC)](https://www.youtube.com/watch?v=6dME3wgaQpM&list=PL1331A4548513EA81)  
 [How Computers Work](https://youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&si=vFbHVlC_O4rsyYdn)  
 [Welcome to Colab](https://colab.research.google.com/drive/https:/colab.research.google.com/drive/1LfDI7cDOmnbsYAfwqu9l4h3FQSG8dJrz)  
 [Overview of Colab features](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)  
+[M1E: IPython and shell commands](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.05-IPython-And-Shell-Commands.ipynb#scrollTo=7eLVuNG2znHZ)  
