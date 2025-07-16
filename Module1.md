@@ -11,7 +11,7 @@ Introductions
 <b>M1A: Basic Operations</b>  
 [M1A Reading: (TP Ch1) Programming as a way of thinking](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap01.ipynb)  
 [M1A Slidedeck: Basic Operations](https://www.dropbox.com/scl/fi/ybh9556b8cnmd0a2mg2fy/M1A-Basic-Operations.pptx?rlkey=6xgzj39gwktdyujw4b3n9p7ma&dl=0)  
-[M1A Worksheet: Basic Operations](https://docs.google.com/document/d/1Hx9fHxG1vasVJG-TYQiyShAaOzE5IyRbfJQNMZIbnKU/edit?usp=sharing)  
+[M1A Worksheet: Basic Operations](https://docs.google.com/document/d/1Hx9fHxG1vasVJG-TYQiyShAaOzE5IyRbfJQNMZIbnKU/edit?usp=sharing) [Solution] 
 - Variables
 - Operators
   - Assignment operator
