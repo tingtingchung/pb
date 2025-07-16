@@ -11,7 +11,7 @@ Introductions
 <b>M1A: Basic Operations</b>  
 [M1A Reading: (TP Ch1) Programming as a way of thinking](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap01.ipynb)  
 [M1A Slidedeck: Basic Operations](https://www.dropbox.com/scl/fi/ybh9556b8cnmd0a2mg2fy/M1A-Basic-Operations.pptx?rlkey=6xgzj39gwktdyujw4b3n9p7ma&dl=0)  
-[M1A Worksheet: Basic Operations](https://docs.google.com/document/d/1Hx9fHxG1vasVJG-TYQiyShAaOzE5IyRbfJQNMZIbnKU/edit?usp=sharing) [Solution] 
+[M1A Worksheet: Basic Operations](https://docs.google.com/document/d/1Hx9fHxG1vasVJG-TYQiyShAaOzE5IyRbfJQNMZIbnKU/edit?usp=sharing) [Solution]  
 - Variables
 - Operators
   - Assignment operator
@@ -26,7 +26,7 @@ Introductions
 - [Think Python Ch5](https://colab.research.google.com/drive/1aYYH6jlF6XSELZsbl9RVrkK7p15iLTqF)   
 - [if elif else](https://books.trinket.io/pfe/03-conditional.html)
 [M1B Slidedeck: Decisions](https://tinyurl.com/36xhdhe2)  
-[M1B Worksheet: Decisions](https://docs.google.com/document/d/1ekhwZfbuc0faKWq754BS753Zjgo4XBcSyIpXqpsDLvU/edit?usp=sharing)
+[M1B Worksheet: Decisions](https://docs.google.com/document/d/1ekhwZfbuc0faKWq754BS753Zjgo4XBcSyIpXqpsDLvU/edit?usp=sharing) [Solution]  
 - Boolean expressions
 - Logical operators
 
