@@ -1,8 +1,9 @@
-<b>Module 2</b>  
+<b>Module 2A: Repetition</b>  
+M2A1: Repetition with For Loops [slidedeck](https://www.dropbox.com/scl/fi/cia8fxkh90jdrtipq35yy/M2A1-Repetition-with-For-Loops.pptx?rlkey=tvkpp0edlslp067ys9krdpwif&dl=0)  
+M2A2: Repetition with While Loops [slidedeck] [worksheet] [solution]
+M2A3: Repetition with Nested Loops  
 
-
-
-[M2B: Loops](https://www.dropbox.com/scl/fi/dvsy02omox3ycjlku3nq0/M2-Loops.pptx?rlkey=y3zm0v03k2k6zx8xxunn1mmtw&dl=0)  
+References
 - [Think Python Ch7](https://colab.research.google.com/drive/1z7cB9xJPGcoNfyHt1cEscMyyYanVvx03)  
 - Looping through strings
 - Updating variables
