@@ -8,7 +8,6 @@ M2A3: Repetition with Nested Loops [slidedeck] [worksheet] [solution]
 [M2A5: (TP Ch11) Tuples](https://colab.research.google.com/drive/1tBBTZW9ULtHRI3cepbRybTW5B3-4Truy) [slidedeck] [worksheet] [solution]    
 
 - [Think Python Ch7](https://colab.research.google.com/drive/1z7cB9xJPGcoNfyHt1cEscMyyYanVvx03)  
-- Looping through strings
 - Updating variables
 - Looping to count
 - in operator
