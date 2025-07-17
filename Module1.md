@@ -1,4 +1,4 @@
-<b>Module1: Programming Fundamentals</b>  
+<b>Module1: Basic Operations & Decisions</b>  
 
 [Complete by end of day: House Shopping Survey](https://forms.gle/QxfeNCZ5Dzr9hnyv5)  
 [Required: Join Codio course](https://codio.com/p/signup?courseToken=lunar-robert)  
