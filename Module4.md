@@ -1,8 +1,9 @@
 <b>Module 4</b>  
 
-<b>Module 4A: Numpy</b>  
+<b>Module 4A: Numpy</b> [slidedeck] [worksheet] [solution]  
+[Introduction to Python & NumPy for Deep Learning](https://colab.research.google.com/github/deepmind/educational/blob/master/colabs/summer_schools/intro_to_python_numpy_for_deep_learning.ipynb)  
 
-<b>Module 4B: Pandas & Visualization</b>   
+<b>Module 4B: Pandas & Visualization</b> [slidedeck] [worksheet] [solution]  
 [M4B: Creating Pandas Data Frames](https://colab.research.google.com/drive/1v6olHp0JBgHLnx8GMXUBI7zDY90C-lKn)  
 
 [M4C: Visualization](https://colab.research.google.com/drive/1U0oH-nq82mwVkvWmEZLym1PioT3JsYch#scrollTo=0CPaxl-50Cfn)    
