@@ -1,12 +1,12 @@
 <b>Module1: Basic Operations & Decisions</b>  
 
 [Complete by end of day: House Shopping Survey](https://forms.gle/QxfeNCZ5Dzr9hnyv5)  
-[Required: Join Codio course](https://codio.com/p/signup?courseToken=lunar-robert)  
-[Optional: Join DataCamp course](https://www.datacamp.com/groups/shared_links/fd0f98d3028d1d6d6768be44435ad0e8d0d50cfbb76b22539805e25ede3cb36e)  
+[Required: Join Codio or Kira course]()  
+[Optional: Join DataCamp course]()  
 
 Introductions  
-[Course Intro](https://www.dropbox.com/scl/fi/1sif6b40p181liyilboaf/00-1-Intro-to-Python-Bootcamp.pptx?rlkey=f4rrn37gzmes8q3k090b1opyw&dl=1)  
-[Colab & Programming fundamentals](https://colab.research.google.com/drive/1pVkmyO5o25ySDo1UjKOPco5vzXlpZLl-)  
+[Course Intro]()  
+[Colab & Programming fundamentals]()  
 
 <b>M1A: Basic Operations</b> [slidedeck](https://www.dropbox.com/scl/fi/ybh9556b8cnmd0a2mg2fy/M1A-Basic-Operations.pptx?rlkey=6xgzj39gwktdyujw4b3n9p7ma&dl=0) [worksheet](https://docs.google.com/document/d/1Hx9fHxG1vasVJG-TYQiyShAaOzE5IyRbfJQNMZIbnKU/edit?usp=sharing) [solution](https://docs.google.com/document/d/1C6TgFaq1St1W9iy6oCggbU1h7XS8DBf1zbKDC_qjd_g/edit?tab=t.0)  
 [M1A Reading: (TP Ch1) Programming as a way of thinking](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap01.ipynb)  
