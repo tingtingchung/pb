@@ -6,6 +6,5 @@
 
 <b>Module 3B: Dictionaries & Strings</b>  
 [M3B1: (TP Ch10) Dictionaries](https://colab.research.google.com/drive/1mDHYFR-xospgw695_77GjNfSGfpd507K#scrollTo=acfd2720) [slidedeck] [worksheet] [solution]  
-[M3B2: (TP Ch8) Strings](https://colab.research.google.com/drive/1_YFBs_28ayUxWgsGczfZzFDDnDB05A8Z) [slidedeck] [worksheet] [solution]  
 - [Think Python Ch7](https://colab.research.google.com/drive/1z7cB9xJPGcoNfyHt1cEscMyyYanVvx03)  
-- Looping through strings
+M2B2: Terminal Commands [slidedeck] [worksheet] [solution]  
