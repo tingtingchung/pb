@@ -4,7 +4,7 @@
 [Required: Join Codio or Kira course]()  
 [Optional: Join DataCamp course]()  
 
-Introductions  
+<b>Introductions</b>  
 [Course Intro]()  
 [Colab & Programming fundamentals]()  
 
