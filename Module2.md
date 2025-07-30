@@ -7,6 +7,6 @@ M2A3: Repetition with Nested Loops [slidedeck](https://www.dropbox.com/scl/fi/ut
 M2A4: Lists vs. Tuples[slidedeck](https://tinyurl.com/2m4ur4r8) [worksheet](https://docs.google.com/document/d/1mKxMZTQ7ynadc5cqnV7-QOFeuHyAx9zNOKKERM6srGk/edit?tab=t.0) [solution]   
 
 <b>Module 2B: Strings, Files, & Debugging</b>  
-M2B1: Strings [slidedeck][worksheet][solution]
+M2B1: Strings [slidedeck][worksheet][solution]  
 M2B2: Files & Folders [slidedeck](https://www.dropbox.com/scl/fi/philqjpm6707evp4vtoxj/M2B2-Files-Folders.pptx?rlkey=5rrsgrzbc30djlmjs9s1133x9&dl=0) [worksheet] [solution]  
 M2B3: Debugging [slidedeck] [worksheet] [solution]  
