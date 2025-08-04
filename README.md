@@ -6,7 +6,10 @@ We will reference these freely available textbooks
 [Python for Everybody by Dr. Chuck](https://books.trinket.io/pfe/index.html)  
 [Automate the Boring Stuff with Python](https://edu.anarcho-copy.org/Programming%20Languages/Python/Automate%20the%20Boring%20Stuff%20with%20Python.pdf)  
 
-For additional practices please visit:  
+This textbook is not available for free, but it is an excellent introduction to Python using business-oriented examples.
+[Python for Data & Analytics: A Business-Oriented Approach by Groner](https://www.prospectpressvt.com/textbooks/groner-python)  
+
+For additional practices, please visit:  
 [Python Training by JP Morgan Chase](https://github.com/jpmorganchase/python-training)  
 [Code Academy](https://www.codecademy.com/catalog/language/python)  
 [DataCamp Python course](https://www.datacamp.com/groups/shared_links/fd0f98d3028d1d6d6768be44435ad0e8d0d50cfbb76b22539805e25ede3cb36e)  
