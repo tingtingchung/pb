@@ -4,6 +4,7 @@ Python Bootcamp at William &amp; Mary's MSBA Program
 We will reference these freely available textbooks  
 [Think Python 3rd edition by Allen Downey](https://allendowney.github.io/ThinkPython)  
 [Python for Everybody](https://books.trinket.io/pfe/index.html)  
+[Automate the Boring Stuff with Python](https://edu.anarcho-copy.org/Programming%20Languages/Python/Automate%20the%20Boring%20Stuff%20with%20Python.pdf)  
 
 For additional practices please visit:  
 [Python Training by JP Morgan Chase](https://github.com/jpmorganchase/python-training)  
