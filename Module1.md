@@ -8,7 +8,7 @@
 [Course Intro]()  
 [Colab & Programming fundamentals]()  
 
-<b>M1A: Computational Thinking</b> [slidedeck] [worksheet] [solution]  
+<b>M1A: Computational Thinking</b> [slidedeck](https://www.dropbox.com/scl/fi/r9dy5uxo6k1pdhhd265cm/M1A-Computational-Thinking.pptx?rlkey=sa21iqlgf5uhubdm4hcvt7jjr&dl=0) [worksheet] [solution]  
 <b>M1B: Basic Operations</b> [slidedeck](https://www.dropbox.com/scl/fi/ybh9556b8cnmd0a2mg2fy/M1A-Basic-Operations.pptx?rlkey=6xgzj39gwktdyujw4b3n9p7ma&dl=0) [worksheet](https://docs.google.com/document/d/1Hx9fHxG1vasVJG-TYQiyShAaOzE5IyRbfJQNMZIbnKU/edit?usp=sharing) [solution](https://docs.google.com/document/d/1C6TgFaq1St1W9iy6oCggbU1h7XS8DBf1zbKDC_qjd_g/edit?tab=t.0)  
 <b>M1C: Decisions</b> [slidedeck](https://tinyurl.com/36xhdhe2) [worksheet](https://docs.google.com/document/d/1ekhwZfbuc0faKWq754BS753Zjgo4XBcSyIpXqpsDLvU/edit?usp=sharing) [solution]  
 <b>M1D: Terminal Commands</b> [slidedeck]
