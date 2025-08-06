@@ -8,7 +8,7 @@
 <b>M1C: Decisions</b> [slidedeck](https://tinyurl.com/36xhdhe2) [worksheet](https://docs.google.com/document/d/1ekhwZfbuc0faKWq754BS753Zjgo4XBcSyIpXqpsDLvU/edit?usp=sharing) [solution]  
 <b>M1D: Terminal Commands</b> [slidedeck](https://www.dropbox.com/scl/fi/km4voura9piyen5gxz962/M1D-Terminal-Commands.pptx?rlkey=0k816ij42hfbbeh80uo6o3vdu&dl=0)  
 
-<b>Additional References</b>  
+<b>References</b>  
 [History of Computers (BBC)](https://www.youtube.com/watch?v=6dME3wgaQpM&list=PL1331A4548513EA81)  
 [How Computers Work](https://youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&si=vFbHVlC_O4rsyYdn)  
 [Welcome to Colab](https://colab.research.google.com/drive/https:/colab.research.google.com/drive/1LfDI7cDOmnbsYAfwqu9l4h3FQSG8dJrz)  
