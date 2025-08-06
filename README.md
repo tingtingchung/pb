@@ -15,6 +15,7 @@ For additional practices, please visit:
 [DataCamp Python course](https://www.datacamp.com/groups/shared_links/fd0f98d3028d1d6d6768be44435ad0e8d0d50cfbb76b22539805e25ede3cb36e)  
 [DeepLearning.AI's AI Python for Beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)  
 
+
 **Best resources for learning to code compiled by Neil Hoyne, Chef Strategiest at Google**  
 ➡️ Ilya Reshetnikov wanted to teach his 7-year old how to code and put together an absolutely massive portfolio of sites.  
 https://lnkd.in/dskCQNzk  
