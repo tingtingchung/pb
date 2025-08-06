@@ -2,7 +2,7 @@
 [Required: Join Codio or Kira course]()  
 [Optional: Join DataCamp course]()  
 
-<b>[Course Intro]</b>(https://www.dropbox.com/scl/fi/okkb1zv34w1ozt6wy5ov0/M1-Intro-to-Python-Bootcamp.pptx?rlkey=mmm133xrbqh8rl55jtsgp2km1&dl=0)   
+<b>[Course Intro](https://www.dropbox.com/scl/fi/okkb1zv34w1ozt6wy5ov0/M1-Intro-to-Python-Bootcamp.pptx?rlkey=mmm133xrbqh8rl55jtsgp2km1&dl=0)</b>   
 
 <b>M1A: Computational Thinking</b> [slidedeck](https://www.dropbox.com/scl/fi/r9dy5uxo6k1pdhhd265cm/M1A-Computational-Thinking.pptx?rlkey=sa21iqlgf5uhubdm4hcvt7jjr&dl=0) [worksheet] [solution]  
 <b>M1B: Basic Operations</b> [slidedeck](https://www.dropbox.com/scl/fi/ybh9556b8cnmd0a2mg2fy/M1A-Basic-Operations.pptx?rlkey=6xgzj39gwktdyujw4b3n9p7ma&dl=0) [worksheet](https://docs.google.com/document/d/1Hx9fHxG1vasVJG-TYQiyShAaOzE5IyRbfJQNMZIbnKU/edit?usp=sharing) [solution](https://docs.google.com/document/d/1C6TgFaq1St1W9iy6oCggbU1h7XS8DBf1zbKDC_qjd_g/edit?tab=t.0)  
