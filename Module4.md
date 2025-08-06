@@ -1,8 +1,8 @@
 <b>Module 4</b>  
 
-<b>M4A: Numpy</b> [slidedeck] [worksheet] [solution]   
+<b>M4A: Numpy</b> [slidedeck](https://www.dropbox.com/scl/fi/ji4dokzhmyx275z5suni8/M4A-Numpy.pptx?rlkey=5ymugrrmjdy0udpuma8dpc0as&dl=0) [worksheet] [solution]   
 <b>M4B: Files & Folders</b> [slidedeck](https://www.dropbox.com/scl/fi/philqjpm6707evp4vtoxj/M2B2-Files-Folders.pptx?rlkey=5rrsgrzbc30djlmjs9s1133x9&dl=0) [worksheet] [solution]  
-<b>M4C: Pandas </b> [slidedeck] [worksheet] [solution]  
+<b>M4C: Pandas </b> [slidedeck](https://www.dropbox.com/scl/fi/a1nzvt38b24bzsfuo6b1s/M4C-pandas.pptx?rlkey=9u8qy8j8wzqt4fuvt9dazsyrq&dl=0) [worksheet] [solution]  
 <b>M4D: Visualization</b> [colab](https://colab.research.google.com/drive/1U0oH-nq82mwVkvWmEZLym1PioT3JsYch#scrollTo=0CPaxl-50Cfn) [slidedeck](https://www.dropbox.com/scl/fi/mf1arerhqtush4iqefj0j/W2-1-Data-Visualization.pptx?rlkey=ktmj626cmjexpdp9bmaz06p2h&dl=0) [worksheet] [solution]  
 
 References  
