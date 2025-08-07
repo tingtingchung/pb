@@ -3,6 +3,8 @@
 Coming Soon
 
 References  
+[NumPy: The absolute basics for beginners](https://numpy.org/doc/stable/user/absolute_beginners.html)   
+[Linear algebra for machine learning](https://youtu.be/LlKAna21fLE)  
 [Introduction to Python & NumPy for Deep Learning](https://colab.research.google.com/github/deepmind/educational/blob/master/colabs/summer_schools/intro_to_python_numpy_for_deep_learning.ipynb)  
 [Creating Pandas Data Frames](https://colab.research.google.com/drive/1v6olHp0JBgHLnx8GMXUBI7zDY90C-lKn)  
 [10 minutes to Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)  
