@@ -16,4 +16,5 @@ Reminder: Tomorrow's meeting will begin with a 30-minute quiz. Please arrive on 
 [How Computers Work](https://youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&si=vFbHVlC_O4rsyYdn)  
 [Welcome to Colab](https://colab.research.google.com/drive/https:/colab.research.google.com/drive/1LfDI7cDOmnbsYAfwqu9l4h3FQSG8dJrz)  
 [Overview of Colab features](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)  
+[Basic Unix Commands](https://www.unixtutorial.org/basic-unix-commands)  
 [M1E: IPython and shell commands](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.05-IPython-And-Shell-Commands.ipynb#scrollTo=7eLVuNG2znHZ)  
