@@ -1,5 +1,5 @@
 <b>Complete by end of day</b>
-- [House Shopping Survey](https://forms.gle/QxfeNCZ5Dzr9hnyv5)  
+- [House Shopping Survey](https://forms.gle/QxfeNCZ5Dzr9hnyv5)
 - Codio Orientation in Codio via Blackboard
 - Turn in at least one completed worksheet  
 
