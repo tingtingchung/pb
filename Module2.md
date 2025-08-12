@@ -4,6 +4,6 @@
 <b>M2A3: Repetition with Nested Loops</b> [slidedeck, also as a worksheet](https://www.dropbox.com/scl/fi/ut9lqab9viudy2m3msnhn/M2A3-Repetition-with-Nested-Loops.pptx?rlkey=g3cjryzfd6nool4kf2drog2z9&dl=0)     
 <b>M2B: Lists vs. Tuples</b> [slidedeck](https://tinyurl.com/2m4ur4r8) [worksheet](https://docs.google.com/document/d/1mKxMZTQ7ynadc5cqnV7-QOFeuHyAx9zNOKKERM6srGk/edit?tab=t.0)  
 <b>M2C: List Comprehension</b> [slidedeck](https://www.dropbox.com/scl/fi/ckly5jinlw68mgd2ahtdz/M2C-List-Comprehension.pptx?rlkey=1gndq7h5jxr7nwudz1bf16fok&dl=0) [worksheet]  
-<b>M2D: Strings</b> [slidedeck](https://www.dropbox.com/scl/fi/1ont1p4cmjq2r2y6ouiif/M2D-Strings.pptx?rlkey=uae74q8hwcbljulxkly27ojpx&dl=0) [Colab Exercise](https://colab.research.google.com/drive/1ms672JUakU-fWRgZzdQQBXfGQgSOhD4y#scrollTo=vnMOsR7NqbwD)    
+<b>M2D: Strings</b> [slidedeck](https://www.dropbox.com/scl/fi/1ont1p4cmjq2r2y6ouiif/M2D-Strings.pptx?rlkey=uae74q8hwcbljulxkly27ojpx&dl=0) [worksheet](https://tinyurl.com/5hpedakr) [Colab Exercise](https://colab.research.google.com/drive/1ms672JUakU-fWRgZzdQQBXfGQgSOhD4y#scrollTo=vnMOsR7NqbwD)    
 
 Reminder: Tomorrow's meeting will begin with a 30-minute quiz. Please arrive on time!
