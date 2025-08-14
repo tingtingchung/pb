@@ -1,7 +1,7 @@
-<b>M4A: Numpy</b> [Numpy tutorial in Colab](https://colab.research.google.com/drive/10Tl_-KXy4JdZTYiZZTHFUdYy276PFbga#scrollTo=usbComkxCIVP)  
+<b>M4A: Numpy</b> [colab](https://colab.research.google.com/drive/10Tl_-KXy4JdZTYiZZTHFUdYy276PFbga#scrollTo=usbComkxCIVP)  
 We will use the [class house shopping survey](https://docs.google.com/spreadsheets/d/1nstyFX8QDfccDmrgrEI0kuTJ8ITZlLXGEYyPMhTABPw/edit?usp=sharing) as a practice dataset  
 <b>M4B: Files & Folders</b> [slidedeck](https://www.dropbox.com/scl/fi/philqjpm6707evp4vtoxj/M2B2-Files-Folders.pptx?rlkey=5rrsgrzbc30djlmjs9s1133x9&dl=0)  
-<b>M4C: Pandas </b> [Pandas tutorial in Colab](https://colab.research.google.com/drive/10Tl_-KXy4JdZTYiZZTHFUdYy276PFbga#scrollTo=usbComkxCIVP)  
+<b>M4C: Pandas </b> [colab](https://colab.research.google.com/drive/10Tl_-KXy4JdZTYiZZTHFUdYy276PFbga#scrollTo=usbComkxCIVP)  
 <b>M4D: Visualization</b> [colab](https://colab.research.google.com/drive/1U0oH-nq82mwVkvWmEZLym1PioT3JsYch#scrollTo=0CPaxl-50Cfn) [slidedeck](https://www.dropbox.com/scl/fi/q10odxmi20giem3bjpci4/M4D-Visualization.pptx?rlkey=krjbbnqj3oc0mhww3789tw0x0&dl=0)  
 
 
