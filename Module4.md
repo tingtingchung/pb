@@ -1,5 +1,3 @@
-<b>Module 4</b>  
-
 <b>M4A: Numpy</b> [Introduction to Python & NumPy for Deep Learning](https://colab.research.google.com/github/deepmind/educational/blob/master/colabs/summer_schools/intro_to_python_numpy_for_deep_learning.ipynb)  
 We will use the [class house shopping survey](https://docs.google.com/spreadsheets/d/1nstyFX8QDfccDmrgrEI0kuTJ8ITZlLXGEYyPMhTABPw/edit?usp=sharing) as a practice dataset  
 <b>M4B: Files & Folders</b> [slidedeck](https://www.dropbox.com/scl/fi/philqjpm6707evp4vtoxj/M2B2-Files-Folders.pptx?rlkey=5rrsgrzbc30djlmjs9s1133x9&dl=0)  
