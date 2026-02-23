@@ -19,4 +19,4 @@ Reminder: Tomorrow's meeting will begin with a 30-minute quiz. Please arrive on 
 [Get Started with GitHub](https://docs.github.com/en/get-started/start-your-journey)  
 [Basic Unix Commands](https://www.unixtutorial.org/basic-unix-commands)  
 [M1E: IPython and shell commands](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.05-IPython-And-Shell-Commands.ipynb#scrollTo=7eLVuNG2znHZ)  
-
+[Introduction to Bash Scripting for Developers](https://github.com/bobbyiliev/introduction-to-bash-scripting)  
